@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30">
+  <defs>
+    <linearGradient id="b" x1="16" x2="16" y1="0" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+    <circle id="a" cx="16" cy="15" r="15"/>
+  </defs>
+  <g transform="translate(-1)">
+    <use fill="#404040" xlink:href="#a" width="100%" height="100%" fill-rule="evenodd"/>
+    <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#a" width="100%" height="100%" fill-rule="evenodd"/>
+    <path fill="#5fcbdf" d="M5.651 13.665h4.67v4.67H5.65z"/>
+    <path fill="#00a7c3" d="M11.318 7.223H25.35v4.67H11.32z"/>
+    <path fill="#5fcbdf" d="M11.318 13.665h10.208v4.67H11.318z"/>
+    <path fill="#acecf4" d="M11.318 20.107h4.67v4.67h-4.67z"/>
+    <circle cx="16" cy="15" stroke="#000" stroke-opacity=".097" r="14.5" fill="none"/>
+  </g>
+</svg>
