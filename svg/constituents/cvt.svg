@@ -1,0 +1,20 @@
+<svg width="122" height="122" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="61" cy="61" r="61" fill="url(#paint0_linear)"/>
+<circle cx="77.3922" cy="31.1707" r="11.1707" fill="white"/>
+<circle cx="94.8294" cy="61.1407" r="11.1707" fill="white"/>
+<circle cx="77.3922" cy="91.1108" r="11.1707" fill="white"/>
+<circle cx="60.5" cy="61.1407" r="11.1707" fill="white"/>
+<circle cx="43.0629" cy="88.9312" r="11.1707" fill="white"/>
+<circle cx="26.1707" cy="61.1407" r="11.1707" fill="white"/>
+<circle cx="43.0629" cy="31.1707" r="11.1707" fill="white"/>
+<rect x="25.8982" y="66.868" width="8.11267" height="24.521" transform="rotate(-28.0915 25.8982 66.868)" fill="white"/>
+<rect x="60.2275" y="66.868" width="8.11267" height="24.521" transform="rotate(-28.0915 60.2275 66.868)" fill="white"/>
+<rect x="38.9329" y="30.5732" width="8.11267" height="24.521" transform="rotate(26.305 38.9329 30.5732)" fill="white"/>
+<rect x="88.5311" y="63.0479" width="8.11267" height="24.521" transform="rotate(26.305 88.5311 63.0479)" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear" x1="17" y1="36.5" x2="116.5" y2="137" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4033FE"/>
+<stop offset="1" stop-color="#4350FD"/>
+</linearGradient>
+</defs>
+</svg>
