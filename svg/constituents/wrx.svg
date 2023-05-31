@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="204.86348mm"
+   height="206.37502mm"
+   viewBox="0 0 204.86348 206.37502"
+   version="1.1"
+   id="svg1192"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="wrx.svg">
+  <defs
+     id="defs1186" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="381.07229"
+     inkscape:cy="750.24916"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g889"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1189">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.0079575,-40.377529)">
+    <g
+       fill="#3067f0"
+       id="g889"
+       style="fill:#0000ff"
+       transform="matrix(6.1862103,0,0,6.1862103,-899.366,-352.87857)">
+      <path
+         id="rect2338"
+         style="fill:#3067f0;stroke:#e5cb22;stroke-width:0;stroke-linejoin:round"
+         d="m 91.769531,13.322266 c -41.877166,0 -75.591797,33.712677 -75.591797,75.589843 V 717.73047 c 0,41.87717 33.714631,75.5918 75.591797,75.5918 H 714.87305 c 41.87716,0 75.59179,-33.71463 75.59179,-75.5918 V 88.912109 c 0,-41.877166 -33.71463,-75.589843 -75.59179,-75.589843 z M 410.63086,151.86133 541.625,337.875 245.875,554.19727 H 164.43555 L 314.70703,307.96875 Z m -296.48828,100.58398 125.73047,92.6875 -102.61328,183.91797 z m 578.35742,0 -25.21289,301.75196 H 315.31055 Z M 139.28906,604.48828 h 528.06446 v 50.29297 H 139.28906 Z"
+         transform="matrix(0.04276986,0,0,0.04276986,145.5,63)" />
+    </g>
+  </g>
+</svg>
