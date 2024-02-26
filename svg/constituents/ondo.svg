@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="29"
+   height="28.999973"
+   viewBox="0 0 471.41111 479.99956"
+   fill="none"
+   version="1.1"
+   id="svg246"
+   sodipodi:docname="ondo.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs250" />
+  <sodipodi:namedview
+     id="namedview248"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="8.1"
+     inkscape:cx="44.444444"
+     inkscape:cy="14.691358"
+     inkscape:window-width="1542"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg246" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 243.69141,479.99957 h -17.019 c -132.547996,0 -239.999996,-107.451 -239.999996,-240 C -13.327586,107.45157 94.124414,0 226.67241,0 c 132.548,0 240,107.45157 240,239.99957 0,11.869 -0.863,23.543 -2.531,34.963 h -33.594 c 1.932,-11.356 2.94,-23.036 2.94,-34.963 0,-114.22 -92.594,-206.814401 -206.815,-206.814401 -114.221,0 -206.814796,92.594401 -206.814796,206.814401 0,114.221 92.593796,206.815 206.814796,206.815 h 123.005 c -31.411,18.723 -67.448,30.492 -105.986,33.185 z m 151.964,-68.74 h -168.983 c -94.584,0 -171.259296,-76.676 -171.259296,-171.26 0,-94.583 76.675296,-171.258801 171.259296,-171.258801 94.584,0 171.259,76.675801 171.259,171.258801 0,11.972 -1.231,23.668 -3.575,34.963 h -34.071 c 2.91,-11.154 4.461,-22.868 4.461,-34.963 0,-76.256 -61.818,-138.074 -138.074,-138.074 -76.256,0 -138.073996,61.818 -138.073996,138.074 0,76.257 61.817996,138.074 138.073996,138.074 h 197.054 c -8.352,11.898 -17.754,23.005 -28.071,33.186 z m -168.983,-68.741 h 217.72 c 5.027,-10.656 9.294,-21.741 12.732,-33.185 h -230.452 c -38.292,0 -69.333,-31.042 -69.333,-69.334 0,-38.291 31.041,-69.333 69.333,-69.333 38.292,0 69.333,31.042 69.333,69.333 0,12.772 -3.439,24.705 -9.444,34.963 h 36.508 c 3.961,-10.917 6.121,-22.695 6.121,-34.963 0,-56.619 -45.899,-102.518 -102.518,-102.518 -56.619,0 -102.519,45.899 -102.519,102.518 0,56.62 45.9,102.519 102.519,102.519 z"
+     fill="currentColor"
+     id="path244"
+     sodipodi:nodetypes="cssssccsssscccssssccssssccsccssssccssss" />
+</svg>
